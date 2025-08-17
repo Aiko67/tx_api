@@ -75,7 +75,7 @@ document.getElementById("accountNumber").addEventListener("input", e => {
 // Load transactions
 async function loadTransactions() {
   try {
-    const res = await fetch("/transactions"); // relative path for Rails
+    const res = await fetch("/transactions");
     if (!res.ok) throw new Error("Failed to fetch transactions");
     const transactions = await res.json();
     tableBody.innerHTML = "";
