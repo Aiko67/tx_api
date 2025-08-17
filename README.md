@@ -120,7 +120,7 @@ You will see a table of transactions and a button to add new ones.
 - When you add a new transaction, it saves it to that same file.
 - The app displays **status colors**:
   - 🟩 Green = Settled
-  - 🟧 Orange = Pending
+  - 🟨 Yellow = Pending  
   - 🟥 Red = Failed
 
 ---
