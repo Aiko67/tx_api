@@ -27,8 +27,8 @@ If this was shared with you as a ZIP file:
 If using Git, you can run:
 
 ```bash
-git clone https://github.com/your-username/transaction-management.git
-cd transaction-management
+git clone https://github.com/Aiko67/tx_api
+cd tx-api
 ```
 
 ---
