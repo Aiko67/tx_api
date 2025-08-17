@@ -14,7 +14,6 @@ class TransactionsController < ApplicationController
         status: row["Status"]
       }
     end
-
     render json: transactions
   end
 
