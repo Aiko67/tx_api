@@ -15,7 +15,7 @@ No database or login is required.
 
 ---
 
-## 🧪 How to Run the App (Step-by-Step)
+## How to Run the App (Step-by-Step)
 
 ### 1. Download the Project
 
