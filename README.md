@@ -45,29 +45,7 @@ This installs the Ruby tools the project needs.
 
 ---
 
-### 3. Create the Transactions File
-
-In the **root** folder (same level as `Gemfile`), create a file called:
-
-```
-transactions.csv
-```
-
-Paste this sample data into it and save:
-
-```csv
-Transaction Date,Account Number,Account Holder Name,Amount,Status
-2025-03-01,728934451121,Maria Johnson,150.00,Settled
-2025-03-02,112234567890,John Smith,75.50,Pending
-2025-03-03,334455667788,Robert Chen,220.25,Settled
-2025-03-04,889900112233,Sarah Williams,310.75,Failed
-```
-
-> 💡 You can also leave the file empty (with just the header) — the app will add new entries automatically.
-
----
-
-### 4. Start the Server
+### 3. Start the Server
 
 In your terminal, run:
 
@@ -89,7 +67,7 @@ Listening on http://localhost:3000
 
 ---
 
-### 5. Open the App
+### 4. Open the App
 
 Open your web browser and go to:
 
